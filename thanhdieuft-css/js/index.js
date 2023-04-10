@@ -58,22 +58,22 @@ function tips(txt){
 
 function Facebook() {
 	setTimeout(function() {
-	  window.open('https://facebook.com/WusThanhDieu', 'ultimate')},
+	  window.open('https://www.facebook.com/profile.php?id=100090174571059', 'ultimate')},
 	100);
   }
   function Messenger() {
 	setTimeout(function() {
-	  window.open('https://m.me/WusThanhDieu', 'ultimate')},
+	  window.open('https://m.me/100090174571059', 'ultimate')},
 	100);
   }
   function Zalo() {
 	setTimeout(function() {
-	  window.open('https://zalo.me/vuongdieu2k3', 'ultimate')},
+	  window.open('https://zalo.me/0964543839', 'ultimate')},
 	100);
   }
   function Telegram() {
 	setTimeout(function() {
-	  window.open('https://t.me/ThanhDieuChannel', 'ultimate')},
+	  window.open('https://t.me/minhsy11', 'ultimate')},
 	100);
   }
   
